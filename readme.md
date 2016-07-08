@@ -1,7 +1,15 @@
 # Infoveave Mondiran Connector Service
-&copy; 2016 Noesys Software Pvt.Ltd
 
-Author : Naresh Jois <naresh@noesyssoftware.com>
+&copy; 2015-2016, Noesys Software Pvt Ltd. 
+
+Dual Licensed under Infoveave Commercial and AGPLv3
+
+You should have received a copy of the GNU Affero General Public License v3
+along with this program (Infoveave)
+You can be released from the requirements of the license by purchasing
+a commercial license. Buying such a license is mandatory as soon as you
+develop commercial activities involving the Infoveave without
+disclosing the source code of your own applications.
 
 ----
 
